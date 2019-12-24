@@ -1,0 +1,2 @@
+# autotest
+Java interface
